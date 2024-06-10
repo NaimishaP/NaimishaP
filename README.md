@@ -22,6 +22,13 @@
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" class="badge">
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" class="badge">
     </p>
+    <h3>Commom Technologies</h3>
+    <p>
+        <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" class="badge">
+        <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" class="badge">
+        <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" class="badge">
+        <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress" class="badge">
+   </p>    
     <h3>Other Skills</h3>
     <p>
         <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" class="badge">
@@ -170,4 +177,3 @@ Research and Development: Integrated the latest NLP advancements into workflows.
             <li>Responsive Design: Developed a responsive user interface that adapts to different screen sizes and devices, ensuring optimal viewing experience across desktop and mobile platforms.</li>
         </ul>
     </ul>
- 
