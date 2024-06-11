@@ -37,24 +37,6 @@
         <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" class="badge">
     </p>
     <h2>Projects</h2>
-    <h3><a href="https://github.com/NaimishaP/PromptEngineering">PromptEngineering</a></h3>
-    <ul>
-        <li><strong>Description:</strong> As a beginner in prompt engineering, one starts by understanding the basics of crafting effective prompts to guide language models like GPT-4 towards desired outputs for tasks such as content creation and customer interaction.</li>
-        <li><strong>Technologies Used:</strong> Language Models: OpenAI's GPT-3, GPT-4
-APIs: OpenAI API
-Programming Languages: Python
-Development Environments: Jupyter Notebook, Google Colab
-NLP Libraries: spaCy, Hugging Face Transformers</li>
-        <li><strong>Highlights:</strong> Highlights:
-Optimization and Tuning: Enhanced prompt accuracy and relevance for better user satisfaction.
-Cross-Functional Collaboration: Aligned prompt engineering with project goals and user needs.
-Use Case Versatility: Applied prompt techniques across various applications.
-Creative Problem-Solving: Developed innovative prompts to elicit specific responses.
-Performance Monitoring: Continuously evaluated and improved prompt effectiveness.
-User-Centric Design: Created intuitive prompts for a natural user experience.
-Documentation: Established best practices and guidelines for prompt engineering.
-Research and Development: Integrated the latest NLP advancements into workflows.</li>
-    </ul>
      <h3><a href="https://github.com/NaimishaP/skill_captain_java_beginner">Skillcaptain_Java Beginner</a></h3>
     <ul>
         <li><strong>Description:</strong> This project is a simple command-line application that allows users to create, view, update, and delete tasks. It is designed to help beginners understand the fundamentals of Java programming, including data types, arrays, control structures, collections, and basic object-oriented design.</li>
