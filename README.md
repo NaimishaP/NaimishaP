@@ -2,7 +2,7 @@
 <p>Welcome to my GitHub profile! I'm an Manual Tester passionate about Software Engineering. I'm always eager to learn new technologies, work on exciting projects, and solve challenging problems.</p>
     <h2>About Me</h2>
     <ul>
-        <li>🌱 I’m currently learning JavaScript, AWS, Github, Postman tool, Core Java, MySQL, Prompt Engineering.</li>
+        <li>🌱 I’m currently learning Java,JavaScript, DSA, MySQL, Prompt engineering, postman, AWS, Cypress, Jenkins.</li>
         <li>📫 How to reach me: <a href="mailto:pokalanaimisha123@gmail.com">pokalanaimisha123@gmail.com</a>.</li>
         <li>⚡ Fun fact: I enjoy solving Rubik's cube puzzle 3x3.</li>
     </ul>
@@ -22,12 +22,15 @@
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" class="badge">
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" class="badge">
     </p>
+     <h3>QA Automation</h3>
+    <p>
+        <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" class="badge">
+        <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress" class="badge">
+    </p>
     <h3>Commom Technologies</h3>
     <p>
         <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" class="badge">
         <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" class="badge">
-        <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" class="badge">
-        <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress" class="badge">
    </p>    
     <h3>Other Skills</h3>
     <p>
@@ -65,7 +68,6 @@ Research and Development: Integrated the latest NLP advancements into workflows.
             <li>Conditions and Loops: Used conditional statements and loops for task management logic.</li>
         </ul>
     </ul>
-
     <h3><a href="https://github.com/NaimishaP/skill_captain_java_intermediate">Skillcaptain_Java_Intermediate</a></h3>
     <ul>
         <li><strong>Description:</strong> An intermediate Java project that delves into object-oriented programming (OOP) concepts through the development of an e-commerce application. The project includes product registration, adding products to a cart, and more.</li>
@@ -78,7 +80,6 @@ Research and Development: Integrated the latest NLP advancements into workflows.
             <li>Error Handling: Ensured robust error handling and input validation.</li>
         </ul>
     </ul>
-
     <h3><a href="https://github.com/NaimishaP/skill_captain_javascript_beginner">skill_captain_javascript_beginner</a></h3>
     <ul>
         <li><strong>Description:</strong> Learning JavaScript as a beginner involves understanding the basics of web development, including syntax, variables, functions, and DOM manipulation to create interactive web pages.</li>
@@ -177,3 +178,4 @@ Research and Development: Integrated the latest NLP advancements into workflows.
             <li>Responsive Design: Developed a responsive user interface that adapts to different screen sizes and devices, ensuring optimal viewing experience across desktop and mobile platforms.</li>
         </ul>
     </ul>
+ 
