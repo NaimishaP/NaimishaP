@@ -143,7 +143,7 @@
     <h3><a href="https://github.com/NaimishaP/PromptEngineering">PromptEngineering</a></h3>
     <ul>
         <li><strong>Description:</strong> This project focuses on prompt engineering techniques, which involve designing and optimizing prompts to elicit specific responses or actions from users. It explores various strategies for crafting effective prompts in AI systems, chatbots, surveys, and other interactive applications. The project delves into the psychology behind prompt design, considering factors such as language, context, timing, and user preferences.</li>
-        <li><strong>Technologies Used:</strong> Various prompt engineering tools</li>
+        <li><strong>Technologies used:</strong> Various prompt engineering tools</li>
         <li><strong>Highlights:</strong> Key features or functionalities.</li>
     </ul>
     <h3><a href="https://github.com/NaimishaP/skill_captain_youtube_clone.git">skill_captain_youtube_clone</a></h3>
