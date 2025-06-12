@@ -8,7 +8,7 @@
     <li>🚀 I have built and maintained automation frameworks, performed API and UI testing, and contributed to CI/CD pipelines.</li>
     <li>🎯 I believe in continuous improvement and staying current with QA best practices and emerging technologies.</li>
     <li>📫 How to reach me: <a href="mailto:pokalanaimisha123@gmail.com">pokalanaimisha123@gmail.com</a></li>
-    <li>⚡ Fun fact: I enjoy solving the 3x3 Rubik's Cube!</li>
+    <li>⚡ Fun fact: I find debugging oddly satisfying—it’s like detective work for software.</li>
 </ul>
 
 <h2>Skills</h2>
